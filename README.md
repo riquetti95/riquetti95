@@ -3,9 +3,9 @@
 Olá, eu sou Adriano Riquetti, apaixonado por tecnologia e entusiasta de código aberto. Seja bem-vindo ao meu pequeno espaço no GitHub, onde compartilho meu amor pela programação e exploro diversas tecnologias.
 
 Sobre mim
-🌱 Atualmente, estou aprendendo Análise e Desenvolvimento de Sistemas.
-👯 Estou procurando colaborar em projetos de código aberto.
-💬 Pergunte-me sobre PHP/MySQL/vb.NET.
+<p>🌱 Atualmente, estou aprendendo Análise e Desenvolvimento de Sistemas.</p>
+<p>👯 Estou procurando colaborar em projetos de código aberto.</p>
+<p>💬 Pergunte-me sobre PHP/MySQL/vb.NET.</p>
 
 Linguagens e Ferramentas
 Linguagens: PHP | VB.NET | Python | JavaScript | MySQL | SQL
