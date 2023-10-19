@@ -10,6 +10,8 @@ Sobre mim
 Linguagens e Ferramentas
 Linguagens: PHP | VB.NET | Python | JavaScript | MySQL | SQL
 
+<p dir="auto"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" style="width: 48px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" style="width: 48px;"></p>
+
 <br />
 
 <h1>Projetos</h1>
